@@ -4,7 +4,7 @@
   "version": "2.0.0",
   "license": "MIT",
   "author": "Ghost Foundation",
-  "homepage": "https://docs.ghost.org/api/gatsby/",
+  "homepage": ".",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tryghost/gatsby-starter-ghost.git"
@@ -58,6 +58,7 @@
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "react-helmet": "6.1.0",
+    "react-scripts": "^3.4.0",
     "url": "0.11.0"
   }
 }
